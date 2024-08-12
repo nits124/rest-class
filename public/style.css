@@ -3,6 +3,10 @@ body{
 }
 .post{
     background-color: bisque;
+<<<<<<< HEAD
     padding: 4px;
+=======
+    padding: 5px;
+>>>>>>> ee3afb4cce3f74ae8abdc4b271a95cfd1178db9c
     margin-bottom: 11px;
 }
